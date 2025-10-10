@@ -1,0 +1,5 @@
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks often aim to access, change, or destroy sensitive information.
+
+Common cybersecurity threats include malware, phishing, ransomware, and social engineering attacks. Organizations implement firewalls, antivirus software, and intrusion detection systems to defend against these threats.
+
+User awareness and training are essential parts of cybersecurity. Even the most secure systems can be compromised if users are not careful with passwords and email links.

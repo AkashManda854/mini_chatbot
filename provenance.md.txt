@@ -1,0 +1,27 @@
+
+---
+
+## **2️⃣ provenance.md**  
+
+This file lists your **data sources and references**.
+
+```markdown
+# Data Provenance
+
+This project uses text data collected from publicly available sources for educational purposes.
+
+## Sources
+
+1. **Artificial Intelligence (ai.txt)**  
+   - Source: Wikipedia article on Artificial Intelligence (summarized)  
+   - URL: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+2. **Cybersecurity (cybersecurity.txt)**  
+   - Source: Free cybersecurity blogs and tutorials  
+   - URL: https://www.cybrary.it/blog/
+
+3. **Climate Change (climate.txt)**  
+   - Source: Public educational resources on climate  
+   - URL: https://www.climate.gov/teaching
+
+> All text has been **summarized and adapted** to create a small offline dataset.

@@ -1,0 +1,5 @@
+Artificial intelligence (AI) is the simulation of human intelligence in machines. AI systems can perform tasks such as speech recognition, problem-solving, and learning from experience.
+
+Machine learning is a subset of AI that allows computers to learn from data without explicit programming. Neural networks, deep learning, and reinforcement learning are popular techniques in AI research.
+
+AI applications are everywhere, from virtual assistants like Siri and Alexa to recommendation systems on Netflix and Amazon.
