@@ -55,7 +55,7 @@ I built an intelligent chatbot that works completely offline! It retrieves relev
 
 This project demonstrates core concepts in information retrieval without requiring complex neural networks or cloud services!
 
-Link: [Your GitHub Repo URL]
+GitHub: https://github.com/AkashManda854/mini_chatbot
 
 #Python #MachineLearning #NLP #DataScience #AI #InformationRetrieval #TechProjects
 ```
@@ -131,7 +131,7 @@ Potential improvements:
 
 This project is perfect for anyone learning about NLP, information retrieval, or building practical AI applications without deep learning!
 
-Repository: [Your GitHub URL]
+GitHub Repository: https://github.com/AkashManda854/mini_chatbot
 
 What are your thoughts on traditional ML vs. deep learning for search applications? Let's discuss in the comments! 👇
 
@@ -291,13 +291,13 @@ Best regards,
 
 ---
 
-## 📈 Metrics to Mention (If Available)
+## 📈 Metrics to Mention (Examples)
 
-- Number of documents indexed: X
-- Average query response time: Y ms
-- Retrieval accuracy: Z%
-- Lines of code: ~70 lines (compact implementation)
-- GitHub stars/forks (if any)
+- Number of documents indexed: (e.g., 3 text files with ~15 paragraphs)
+- Average query response time: (typically < 100ms for small datasets)
+- Retrieval accuracy: (varies by query, generally high for exact term matches)
+- Lines of code: ~70 lines (compact, efficient implementation)
+- GitHub stars/forks: (update with actual numbers as they grow)
 
 ---
 
